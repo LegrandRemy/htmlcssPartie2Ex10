@@ -1,0 +1,59 @@
+.rectangle1 {
+    width  : 800px;
+    height : 50px;
+    background : green;
+    position: flex;
+     top: 0px ;
+  }
+
+  .rectangle2 {
+    width  : 200px;
+    height : 50px;
+    background : blue;
+    position: flex;
+    top :0px; 
+    left: 800px;
+     
+
+  }
+
+  .rectangle3 {
+      width: 300px;
+      height: 200px;
+      background : red;
+      top: 50px;
+      left: 0px;
+      position: flex;
+      
+
+  }
+  .rectangle4 {
+    width: 400px;
+    height: 100px;
+    background : rgb(124, 84, 9);
+    position: flex;
+    left: 300px;
+    top: 50px;
+  }
+
+  .rectangle5 {
+    width: 300px;
+    height: 100px;
+    background : rgb(245, 160, 3);
+    position: flex;
+    left: 300px;
+    top: 150px;
+  }
+
+  .rectangle6 {
+    width: 300px;
+    height: 100px;
+    background : rgb(66, 66, 65);
+    position: flex;
+    left: 700px;
+    top: 50px;
+  }
+
+  body{
+      display: f;
+  }

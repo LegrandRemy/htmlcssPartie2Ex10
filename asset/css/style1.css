@@ -1,0 +1,59 @@
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+
+  .green {
+    width  : 75%;
+    height : 10%;
+    background-color: green;
+  }
+
+  .blue {
+    width: 25%;
+    height: 10%;
+    background-color : blue;
+    
+  }
+
+  .red {
+  
+    background-color: red;
+    width: 34%;
+    height: 40%;
+  
+  }
+  .yellow {
+    
+    background-color: yellow;
+    width: 22%;
+    height: 20%;
+  
+    margin-top: auto;
+    margin-left: 34%;
+    justify-items: auto;
+    
+  
+ 
+    
+
+  }
+
+  .orange {
+    background-color: orange;
+    width: 31%;
+    height: 20%;
+
+  }
+  .grey {
+    
+    background-color: rgb(90, 89, 88);
+    width: 35%;
+    height: 20%;
+    
+  }
+
+  
